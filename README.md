@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=_E3A6AE_height=200&section=header&text=Seunghoon%20Choi&fontSize=32)
+![header](https://capsule-render.vercel.app/api?type=waving&color=_hexcode:FFA883_height=200&section=header&text=Seunghoon%20Choi&fontSize=32)
 My name is Seunghoon Choi:smile::smile:
 I'm **student** in Seoultech, I'm interested in **Web**.
 Thank you for visiting and have a nice day:smile::smile::smile:
