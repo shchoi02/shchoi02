@@ -36,8 +36,6 @@
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=JavaScript">
        <img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-05122A?style=flat&logo=Thymeleaf">
       <img alt="Spring" src="https://img.shields.io/badge/Spring-05122A?style=flat&logo=Spring">
-      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-05122A?style=flat&logo=Node.js">
-			<img alt="Flask" src="https://img.shields.io/badge/Flask-05122A?style=flat&logo=Flask">
 		</kbd>
 	</p>
 	<p>
@@ -47,17 +45,6 @@
 			<br>
       <img alt="MySql" src="https://img.shields.io/badge/MySql-05122A?style=flat&logo=MySql">
       <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=MongoDB">
-		</kbd>
-	</p>
-  <p>
-		<kbd>
-			<kbd>CI & CD</kbd>
-			<br>
-			<br>
-      <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-05122A?style=flat&logo=Jenkins">
-      <img alt="Github Actions" src="https://img.shields.io/badge/Github%20Actions-05122A?style=flat&logo=github-actions">
-      <img alt="Docker" src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=Docker">
-      <img src="https://img.shields.io/badge/Kubernetes-05122A?style=flat&logo=Kubernetes&logoColor=white" alt="Kubernetes">
 		</kbd>
 	</p>
   <p>
