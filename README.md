@@ -42,14 +42,23 @@
 		<img src="https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=MongoDB&logoColor=white" alt="MongoDB">
 		</kbd>
 	</p>
+	<p>
+		<kbd>
+			<kbd>CI & CD</kbd>
+			<br>
+			<br>
+			<img src="https://img.shields.io/badge/docker-05122A?style=flat&logo=docker&logoColor=white" alt="Docker">
+			<img src="https://img.shields.io/badge/Kubernetes-05122A?style=flat&logo=Kubernetes&logoColor=white" alt="Kubernetes">
+			<img src="https://img.shields.io/badge/Jenkins-05122A?style=flat&logo=Jenkins&logoColor=white" alt="Jenkins">
+			<img src="https://img.shields.io/badge/Github%20Actions-05122A?style=flat&logo=github-actions&logoColor=white" alt="github-actions">
+		</kbd>
   <p>
 		<kbd>
 			<kbd>Cloud Hosting</kbd>
 			<br>
 			<br>
-			<img src="https://img.shields.io/badge/docker-05122A?style=flat&logo=docker&logoColor=white" alt="Docker">
-			<img src="https://img.shields.io/badge/Kubernetes-05122A?style=flat&logo=Kubernetes&logoColor=white" alt="Kubernetes">
-			<img src="https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS">			
+			<img src="https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS">
+			<img src="https://img.shields.io/badge/Google%20Cloud-05122A?style=flat&logo=Google%20Cloud&logoColor=white" alt="Google Cloud">
 		</kbd>
 	</p>
   <p>
