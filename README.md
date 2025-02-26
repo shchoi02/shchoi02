@@ -1,10 +1,5 @@
 <h1>Hi there 👋, I'm Choi Seunghun.</h1>
 
-<!-- Header Links -->
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://github.com/cshooon)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/cshooon)
-
-
 
 <!-- Short Bio -->
 <p>Hello! I’m Seunghun, a graduate student researching Medical AI while studying backend development. My main focus is building reliable and efficient backend systems, but I’m also deeply interested in Machine Learning and Deep Learning. I enjoy tackling challenges through Long-Tailed learning and CI/CD/CT (Continuous Integration, Continuous Deployment, Continous Training). <b>Looking forward to connecting and learning together!</b></p>
