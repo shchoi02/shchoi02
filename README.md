@@ -7,7 +7,7 @@
 
 
 <!-- Short Bio -->
-<p>Hello! I’m Seunghun, a graduate student researching Medical AI while studying backend development. My main focus is building reliable and efficient backend systems, but I’m also deeply interested in Machine Learning and Deep Learning. I enjoy tackling challenges through Long-Tailed learning and CI/CD/CT (Continuous Integration, Continuous Deployment, Continous Training). <b>Looking forward to connecting and growing together!</b></p>
+<p>Hello! I’m Seunghun, a graduate student researching Medical AI while studying backend development. My main focus is building reliable and efficient backend systems, but I’m also deeply interested in Machine Learning and Deep Learning. I enjoy tackling challenges through Long-Tailed learning and CI/CD/CT (Continuous Integration, Continuous Deployment, Continous Training). <b>Looking forward to connecting and learning together!</b></p>
 
 
 <!-- Tech Stack -->
