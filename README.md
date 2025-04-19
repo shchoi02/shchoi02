@@ -16,5 +16,6 @@ Hi there 👋, I'm Choi Seunghun, a graduate student researching Medical AI. I'm
 | BusTimely | 서울시 버스 도착 정보 알리미  | 개인 프로젝트        | 교내 프로그래밍 경진대회 웹사이트 부분 장려상                               |
 | FreshKeeper    | 편의점 POS 웹페이지     | 개인 프로젝트       |                                                  |
 
-### 💻 Dev Notes
+<br>
+
 [![Git Blog](https://img.shields.io/badge/Git%20Blog-blue?style=for-the-badge&logo=bitrise)](https://cshooon.github.io)
