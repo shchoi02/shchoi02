@@ -14,7 +14,6 @@ Hi there 👋, I'm Choi Seunghun, a graduate student researching Medical AI. I'm
 | AutoDriveAI     | 자율주행 데이터셋  | 2DBB 데이터셋 | 2023 자율주행 인공지능 알고리즘 개발 챌린지 장려상 |
 | Vista           | 데이터 분석 자동화 서비스  | 백엔드, DevOps       |            |
 | BusTimely | 서울시 버스 도착 정보 알리미  | 개인 프로젝트        | 교내 프로그래밍 경진대회 웹사이트 부분 장려상                               |
-| FreshKeeper    | 편의점 재고관리 웹페이지     | 개인 프로젝트       |                                                  |
 
 <br>
 
