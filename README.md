@@ -21,13 +21,13 @@ Hi there 👋, I'm Choi Seunghun, a graduate student researching Medical AI. I'm
   </thead>
   <tbody>
     <tr>
-      <td>LectureListen</td>
+      <td>Lecture <br> Listen</td>
       <td>음성인식 모델 학습</td>
       <td>모델 학습, 음성인식 서비스</td>
       <td>2023 SCI 부트캠프 최우수상</td>
     </tr>
     <tr>
-      <td>BoxNSegAI</td>
+      <td>BoxN <br> SegAI</td>
       <td>자율주행 데이터셋</td>
       <td>2DBB 데이터셋</td>
       <td>2023 자율주행 챌린지 장려상</td>
