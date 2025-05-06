@@ -8,11 +8,41 @@ Hi there 👋, I'm Choi Seunghun, a graduate student researching Medical AI. I'm
 
 ### 👨‍💻 Project
 
-| 이름           | 설명                             | 역할               | 비고                                             |
-|----------------|----------------------------------|--------------------|--------------------------------------------------|
-| LectureListen   | 음성인식 모델 학습   | 모델 학습, 음성인식 서비스       |  2023 동계 인공지능 SCI 부트캠프 최우수상                 |
-| BoxNSegAI     | 자율주행 데이터셋  | 2DBB 데이터셋 | 2023 자율주행 인공지능 알고리즘 개발 챌린지 장려상 |
-| Vista           | 데이터 분석 자동화 서비스  | 백엔드, DevOps       |            |
+<div style="overflow-x: auto;">
+  
+<table>
+  <thead>
+    <tr>
+      <th>이름</th>
+      <th>설명</th>
+      <th>역할</th>
+      <th>비고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>LectureListen</td>
+      <td>음성인식 모델 학습</td>
+      <td>모델 학습, 음성인식 서비스</td>
+      <td>2023 SCI 부트캠프 최우수상</td>
+    </tr>
+    <tr>
+      <td>BoxNSegAI</td>
+      <td>자율주행 데이터셋</td>
+      <td>2DBB 데이터셋</td>
+      <td>2023 자율주행 챌린지 장려상</td>
+    </tr>
+    <tr>
+      <td>Vista</td>
+      <td>데이터 분석 자동화</td>
+      <td>백엔드, DevOps</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
 
 <br>
 
