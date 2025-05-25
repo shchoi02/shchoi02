@@ -27,7 +27,7 @@ Hi there 👋, I'm Choi Seunghun, a graduate student researching Medical AI. I'm
       <td>2023 SCI 부트캠프 최우수상</td>
     </tr>
     <tr>
-      <td>BoxNSegAI</td>
+      <td>AutoDriveAI</td>
       <td>자율주행 데이터셋</td>
       <td>2DBB 데이터셋</td>
       <td>2023 자율주행 챌린지 장려상</td>
